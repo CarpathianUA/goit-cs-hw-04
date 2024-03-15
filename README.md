@@ -1,5 +1,5 @@
 # Demo Python project for searching for words in files filled wth generated mock text
-# Demonstrates multithreading and multiprocessing execution for I/O bound task
+## Demonstrates multithreading and multiprocessing execution for I/O bound task
 
 ## Usage
 
