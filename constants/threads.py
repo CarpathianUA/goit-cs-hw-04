@@ -1,0 +1,1 @@
+THREADS_NUM_COEF = 2
